@@ -209,7 +209,7 @@ head metadata =
 
 canonicalSiteUrl : String
 canonicalSiteUrl =
-    "https://elm-pages-tailwind-starter.netlify.com"
+    "https://elm-debug-extension.netlify.app"
 
 
 siteTagline : String
