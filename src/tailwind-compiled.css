@@ -467,6 +467,11 @@ img {
   padding-right: 2rem;
 }
 
+.px-12 {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
 .pt-12 {
   padding-top: 3rem;
 }
@@ -493,10 +498,6 @@ img {
 
 .text-white {
   color: #fff;
-}
-
-.text-gray-500 {
-  color: #a0aec0;
 }
 
 .text-gray-800 {
@@ -565,10 +566,6 @@ img {
 
   .md\:flex-shrink-0 {
     flex-shrink: 0;
-  }
-
-  .md\:mb-6 {
-    margin-bottom: 1.5rem;
   }
 
   .md\:p-12 {
